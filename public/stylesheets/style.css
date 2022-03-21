@@ -1,0 +1,30 @@
+body {
+  padding: 0;
+  margin: 0;
+  width: 100vw;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+
+}
+
+.active {
+  color:#3498db;
+}
+
+nav {
+  background-color: #363636;
+  height: 8vh;
+}
+
+.ulHeader {
+  display: flex;
+  gap: 30px;
+}
+
+li {
+
+}
